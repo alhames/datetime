@@ -4,7 +4,6 @@
   "description": "A simple PHP API extension for DateTime",
   "homepage": "https://github.com/alhames/datetime",
   "license": "MIT",
-  "version": "1.0.0",
   "authors": [
     {
       "name": "Pavel Logachev",
