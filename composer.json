@@ -32,5 +32,8 @@
     "psr-4": {
       "Alhames\\DateTime\\Tests\\": "Tests/"
     }
+  },
+  "scripts": {
+    "test": "vendor/bin/phpunit"
   }
 }
