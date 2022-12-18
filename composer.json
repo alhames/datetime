@@ -2,6 +2,7 @@
   "name": "alhames/datetime",
   "type": "library",
   "description": "A simple PHP API extension for DateTime",
+  "keywords": ["php", "datetime"],
   "homepage": "https://github.com/alhames/datetime",
   "license": "MIT",
   "authors": [
