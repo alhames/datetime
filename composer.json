@@ -2,7 +2,7 @@
   "name": "alhames/datetime",
   "type": "library",
   "description": "A simple PHP API extension for DateTime",
-  "homepage": "https://github.com/alhames/phphelper-datetime",
+  "homepage": "https://github.com/alhames/datetime",
   "license": "MIT",
   "version": "1.0.0",
   "authors": [
@@ -20,7 +20,7 @@
     "phpunit/phpunit": "^9.0"
   },
   "support": {
-    "issues": "https://github.com/alhames/phphelper-datetime/issues"
+    "issues": "https://github.com/alhames/datetime/issues"
   },
   "autoload": {
     "psr-4": {
