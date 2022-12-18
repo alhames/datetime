@@ -23,13 +23,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Alhames\\DateTime\\": ""
+      "Alhames\\DateTime\\": "src/"
     },
     "files": ["functions.php"]
   },
   "autoload-dev": {
     "psr-4": {
-      "Alhames\\DateTime\\Tests\\": "Tests/"
+      "Alhames\\DateTime\\Tests\\": "tests/"
     }
   },
   "scripts": {
