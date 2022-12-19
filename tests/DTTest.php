@@ -5,7 +5,7 @@ namespace Alhames\DateTime\Tests;
 use Alhames\DateTime\DT;
 use PHPUnit\Framework\TestCase;
 
-class DateTimeTest extends TestCase
+class DTTest extends TestCase
 {
     private const DATE_EXAMPLE = '2020-01-01 10:10:10';
 
